@@ -131,7 +131,7 @@ export const projectDetails = [
     previewLink: "https://play.google.com/store/apps/details?id=com.unitedtractors.customer_portal",
   },
   {
-    title: "UTPORTAL.UNITEDTRACTORS.COM",
+    title: "UT PORTAL",
     image: projectImage2,
     description: `Website for internal user to handle and monitoring user from mobile app "UT Connect"`,
     techstack: "HTML/CSS, React.JS, JavaScript",
